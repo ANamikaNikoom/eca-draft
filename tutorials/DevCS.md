@@ -33,50 +33,6 @@ Key features and functionality:
  
 ![](/tutorials/DevcsImages/Picture3.png)
 
-7.	On the right side switch to the users tab, click the New User to add a couple of your fellow attendees to your project as members.  
-
-![](/tutorials/DevcsImages/Picture4.png)
-
-8.	Click the Administration section on the left nav bar and navigate to the Issue Tracking section.
-9.	Add a couple of releases and then Add three components to your project
--	Node App
--	Docker
--	Testing
-10.	Assign a default owner for each component
-11.	You can experiment with adding a custom field to your issue tracking too.
- 
-![](/tutorials/DevcsImages/Picture5.png)
-
-
-
-##	Managing Issues
-Now we’ll see how to use the issue tracking in DevCS to track your project task list.
-1.	From the left navbar choose Issues
-2.	Click New Issue to add an issue to your repository
-3.	Fill out the following:
--	Summary – load code to git repo
--	Description – need to have the initial code of the app
--	Type – Task
--	Owner – choose your name
--	Due date – choose today’s date
--	Agile Story points – 2
-
-![](/tutorials/DevcsImages/Picture6.png)
- 
-3.	Click to Create Issue.
-4.	Next add 2 more issues and assign them to team members, don’t forget to provide values in the agile story points:
-- Publish Docker Image – 8pts
-- Automate Build tasks – 8 pts
-- Add UI testing – 5 pts
-5.	Feel free to experiment with creating epic and stories as well as sub-issues. “CLUSTER”
-6.	Once you have several issues in your system we are ready to start our agile development sprint.
-7.	Switch to the Agile section using the left navbar.
-8.	Create a new “Team” SCRUM dashboard (based on story points and showing all issues)
-9.	In the backlog section click to create a new Sprint.
-10.	Add all your issues to the current sprint.
-11.	Click to start the sprint.
-12.	Browse through your dashboard and charts to see your development team’s  status.
-
 # Adding a Git Repository
 A DevCS Project can have multiple git repositories. We are going to add a new repostiroy copying the content of an existing repository on GitHub.
 
